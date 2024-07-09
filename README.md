@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Riya Kumar</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="URL_OF_THE_NEW_PICTURE">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/programmer-working-desk_23-2148288753.jpg?t=st=1720523579~exp=1720527179~hmac=a252e0fb7eccbab504de684ba8224bc06438d8f2a9b3ab1acb302d4f15ea1465&w=740">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dakshrajput100&label=Profile%20views&color=0e75b6&style=flat" alt="dakshrajput100" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dakshrajput100" alt="dakshrajput100" /></a> </p>
