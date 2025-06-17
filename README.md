@@ -1,11 +1,19 @@
-<h1 align="center">Hi 👋, I'm Riya Kumar</h1>
+<h1 align="center">Hi 👋, I'm Riya Kumari</h1>
 <h3 align="center">A passionate software developer from India</h3>
+
 <div align="center">
     <img alt="Coding" width="400" src="https://img.freepik.com/free-vector/programmer-working-desk_23-2148288753.jpg?t=st=1720523579~exp=1720527179~hmac=a252e0fb7eccbab504de684ba8224bc06438d8f2a9b3ab1acb302d4f15ea1465&w=740">
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riyarajput100&label=Profile%20views&color=0e75b6&style=flat" alt="riyarajput100" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyarajput100" alt="riyarajput100" /></a> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=riyarajput100&label=Profile%20views&color=0e75b6&style=flat" alt="riyarajput100" />
+</p>
+
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=riyarajput100" alt="riyarajput100" />
+  </a> 
+</p>
 
 - 🌱 I’m currently learning **Java**
 
@@ -13,10 +21,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/riya-kumari-715822254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Riya Kumar LinkedIn" height="30" width="40" /></a>
-<a href="https://leetcode.com/Riyakumari4548/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Riya Kumar LeetCode" height="30" width="40" /></a>
- <a href="https://www.holopin.io/@riyarajput100#badges" target="blank">
-    <img src="https://www.holopin.io/images/logo.png" alt="Riya Kumari Holopin" title="Riya Kumari Holopin" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/riya-kumari-715822254/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Riya Kumar LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/Riyakumari4548/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Riya Kumar LeetCode" height="30" width="40" />
+  </a>
+  <a href="https://www.holopin.io/@riyarajput100#badges" target="blank">
+    <img align="center" src="https://www.holopin.io/images/logo.png" alt="Riya Kumari Holopin" title="Riya Kumari Holopin" height="30" width="40" style="vertical-align: middle;" />
   </a>
 </p>
 
@@ -41,8 +53,10 @@
   </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riyarajput100&show_icons=true&locale=en" alt="riyarajput100" /></p>
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=riyarajput100&show_icons=true&locale=en" alt="riyarajput100" />
+</p>
 
 <p align="left">
-<img src="https://leetcard.jacoblin.cool/Riyakumari4548?theme=unicorn" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Riyakumari4548?theme=unicorn" alt="LeetCode Stats" />
 </p>
