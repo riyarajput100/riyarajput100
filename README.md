@@ -15,6 +15,9 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/riya-kumari-715822254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Riya Kumar LinkedIn" height="30" width="40" /></a>
 <a href="https://leetcode.com/Riyakumari4548/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Riya Kumar LeetCode" height="30" width="40" /></a>
+ <a href="https://www.holopin.io/@riyarajput100#badges" target="blank">
+    <img src="https://www.holopin.io/images/logo.png" alt="Riya Kumari Holopin" title="Riya Kumari Holopin" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left"><b>Hacktoberfest:</b></h3>
